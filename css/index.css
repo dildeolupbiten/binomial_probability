@@ -1,0 +1,27 @@
+#table {
+    font-size: 10px;
+}
+
+#X_case,
+#N_case,
+#X_control,
+#N_control,
+#Alpha {
+    font-size: 12px;
+}
+
+@media (min-width: 600px) {
+    #table {
+        font-size: 12px;
+    }
+}
+
+@media (max-width: 599px) {
+    #X_case,
+    #N_case,
+    #X_control,
+    #N_control,
+    #Alpha {
+        font-size: 10px;
+    }
+}
