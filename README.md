@@ -29,7 +29,7 @@ This web application can be used in two different ways:
 
 https://dildeolupbiten.github.io/binomial_probability/?xcase=65&ncase=100&xcontrol=50&ncontrol=100&alpha=0.01
 
-https://dildeolupbiten.github.io/binomial_probability/?xcase=65&ncase=100&xcontrol=50&ncontrol=100&
+https://dildeolupbiten.github.io/binomial_probability/?xcase=65&ncase=100&xcontrol=50&ncontrol=100
 
 The available url parameters are:
 
